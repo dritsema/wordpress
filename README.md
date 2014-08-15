@@ -1,9 +1,6 @@
 # WordPress
-===================
 
 WordPress plugins that were customized in some way to fit a specific need.  Please note these changes below and adjust the code as necessary for your environment.  Otherwise, enjoy!
-
-===================
 
 ## saml-20-single-sign-on
 
